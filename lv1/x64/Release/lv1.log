@@ -1,0 +1,42 @@
+﻿生成启动时间为 2018/8/31 15:34:24。
+     1>项目“D:\VS13programdyy\lv1\lv1\lv1.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /ID:\Reference\opencv\include /Zi /nologo /W3 /WX- /sdl /O2 /Oi /GL /D _CRT_SECURE_NO_WARNINGS /D WIN32 /D NDEBUG /D _CONSOLE /D _LIB /D _CRT_SECURE_NO_WARNINGS /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Release\\" /Fd"x64\Release\vc120.pdb" /Gd /TP /errorReport:prompt mainlv1.cpp
+         mainlv1.cpp
+     1>mainlv1.cpp(52): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+     1>mainlv1.cpp(53): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+     1>mainlv1.cpp(146): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 mainlv1.cpp(142) : 忽略“i”的定义
+                 mainlv1.cpp(131) : 使用“i”的定义
+     1>mainlv1.cpp(147): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 mainlv1.cpp(142) : 忽略“i”的定义
+                 mainlv1.cpp(131) : 使用“i”的定义
+     1>mainlv1.cpp(150): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 mainlv1.cpp(142) : 忽略“i”的定义
+                 mainlv1.cpp(131) : 使用“i”的定义
+     1>mainlv1.cpp(152): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 mainlv1.cpp(142) : 忽略“i”的定义
+                 mainlv1.cpp(131) : 使用“i”的定义
+     1>mainlv1.cpp(157): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 mainlv1.cpp(142) : 忽略“i”的定义
+                 mainlv1.cpp(131) : 使用“i”的定义
+     1>mainlv1.cpp(157): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+     1>mainlv1.cpp(161): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 mainlv1.cpp(142) : 忽略“i”的定义
+                 mainlv1.cpp(131) : 使用“i”的定义
+     1>mainlv1.cpp(163): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 mainlv1.cpp(142) : 忽略“i”的定义
+                 mainlv1.cpp(131) : 使用“i”的定义
+     1>mainlv1.cpp(167): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 mainlv1.cpp(142) : 忽略“i”的定义
+                 mainlv1.cpp(131) : 使用“i”的定义
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"D:\VS13programdyy\lv1\x64\Release\lv1.exe" /INCREMENTAL:NO /NOLOGO opencv_calib3d320.lib opencv_core320.lib opencv_features2d320.lib opencv_flann320.lib opencv_highgui320.lib opencv_imgcodecs320.lib opencv_imgproc320.lib opencv_ml320.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\VS13programdyy\lv1\x64\Release\lv1.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\VS13programdyy\lv1\x64\Release\lv1.lib" /MACHINE:X64 x64\Release\mainlv1.obj
+         正在生成代码
+         已完成代码的生成
+         lv1.vcxproj -> D:\VS13programdyy\lv1\x64\Release\lv1.exe
+     1>已完成生成项目“D:\VS13programdyy\lv1\lv1\lv1.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.33
